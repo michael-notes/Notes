@@ -11,5 +11,6 @@ https://www.ti.com/lit/ta/ssztbc7/ssztbc7.pdf?ts=1723530928461&ref_url=https%253
 https://paulorenato.com/index.php/electronics-diy/197-rc-snubber-calculator-spreadsheet
 ### 正确使用铝电解电容器的方法 CAT. No. C1001U
 https://www.chemi-con.co.jp/cn/catalog/pdf/al-c/al-sepa-c/001-guide/al-technote-c-2020.pdf
+![image](https://github.com/user-attachments/assets/ccb843df-946b-407f-a986-8424f3295e78)
 ### 铝电解电容器技术说明 CAT.8501
 https://cn-nichicon.com/wp-content/uploads/technical-c.pdf
