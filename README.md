@@ -20,3 +20,5 @@ https://www.ti.com/lit/an/snva538/snva538.pdf?ts=1737033376240
 ### Simple Success With Conducted EMI From DCDC Converters
 #### Literature Number: SNVA489C
 https://www.ti.com/lit/an/snva489c/snva489c.pdf?ts=1737030671475
+### Frequency Response Analysis Tools for Push-pull Converter
+https://u.dianyuan.com/bbs/u/37/1136215617.pdf
