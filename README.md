@@ -14,3 +14,9 @@ https://www.chemi-con.co.jp/cn/catalog/pdf/al-c/al-sepa-c/001-guide/al-technote-
 ![image](https://github.com/user-attachments/assets/ccb843df-946b-407f-a986-8424f3295e78)
 ### 铝电解电容器技术说明 CAT.8501
 https://cn-nichicon.com/wp-content/uploads/technical-c.pdf
+### Input Filter Design for Switching Power Supplies
+#### Literature Number: SNVA538
+https://www.ti.com/lit/an/snva538/snva538.pdf?ts=1737033376240
+### Simple Success With Conducted EMI From DCDC Converters
+#### Literature Number: SNVA489C
+https://www.ti.com/lit/an/snva489c/snva489c.pdf?ts=1737030671475
