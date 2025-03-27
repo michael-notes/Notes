@@ -22,12 +22,12 @@ https://www.ti.com/lit/an/snva538/snva538.pdf?ts=1737033376240
 https://www.ti.com/lit/an/snva489c/snva489c.pdf?ts=1737030671475
 ### Frequency Response Analysis Tools for Push-pull Converter
 https://u.dianyuan.com/bbs/u/37/1136215617.pdf
-### ESR, Stability, and the LDO Regulator
+### LDO Regulator
 https://www.ti.com/lit/an/slva115a/slva115a.pdf?ts=1743076299107
 https://www.ti.com/cn/lit/an/zhca227/zhca227.pdf?ts=1743057562718
 https://www.ti.com/document-viewer/lit/html/ssztbj1?keyMatch=LDO%20%E7%94%B5%E5%AE%B9%20ESR&tisearch=universal_search&f-technicalDocuments=Application%20note,Technical%20article
-
-
+https://www.ti.com/lit/ml/slup424/slup424.pdf?ts=1743076809791&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fen-us%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526nr%253D4723%2526searchTerm%253DLDO+Power+up+overshoot
+https://www.ti.com/lit/an/sbva060/sbva060.pdf?ts=1743076791846&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fen-us%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526nr%253D4723%2526searchTerm%253DLDO+Power+up+overshoot
 
 
 #工作表批量转换成工作簿
