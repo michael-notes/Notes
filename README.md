@@ -28,7 +28,8 @@ https://www.ti.com/cn/lit/an/zhca227/zhca227.pdf?ts=1743057562718
 https://www.ti.com/document-viewer/lit/html/ssztbj1?keyMatch=LDO%20%E7%94%B5%E5%AE%B9%20ESR&tisearch=universal_search&f-technicalDocuments=Application%20note,Technical%20article
 https://www.ti.com/lit/ml/slup424/slup424.pdf?ts=1743076809791&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fen-us%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526nr%253D4723%2526searchTerm%253DLDO+Power+up+overshoot
 https://www.ti.com/lit/an/sbva060/sbva060.pdf?ts=1743076791846&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fen-us%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526nr%253D4723%2526searchTerm%253DLDO+Power+up+overshoot
-
+https://www.ti.com/lit/wp/slvafx0/slvafx0.pdf?ts=1743077735565
+https://toshiba.semicon-storage.com/info/application_note_en_20250213_AKX00141.pdf?did=13766
 
 #工作表批量转换成工作簿
 #VBA代码
