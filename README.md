@@ -22,6 +22,11 @@ https://www.ti.com/lit/an/snva538/snva538.pdf?ts=1737033376240
 https://www.ti.com/lit/an/snva489c/snva489c.pdf?ts=1737030671475
 ### Frequency Response Analysis Tools for Push-pull Converter
 https://u.dianyuan.com/bbs/u/37/1136215617.pdf
+### ESR, Stability, and the LDO Regulator
+https://www.ti.com/lit/an/slva115a/slva115a.pdf?ts=1743076299107
+https://www.ti.com/cn/lit/an/zhca227/zhca227.pdf?ts=1743057562718
+https://www.ti.com/document-viewer/lit/html/ssztbj1?keyMatch=LDO%20%E7%94%B5%E5%AE%B9%20ESR&tisearch=universal_search&f-technicalDocuments=Application%20note,Technical%20article
+
 
 
 
