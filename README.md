@@ -31,45 +31,8 @@ https://www.ti.com/lit/an/sbva060/sbva060.pdf?ts=1743076791846&ref_url=https%253
 https://www.ti.com/lit/wp/slvafx0/slvafx0.pdf?ts=1743077735565
 https://toshiba.semicon-storage.com/info/application_note_en_20250213_AKX00141.pdf?did=13766
 
-#工作表批量转换成工作簿
-#VBA代码
-Sub WorkbookToSheet()
-     Application.DisplayAlerts = False
-      Application.ScreenUpdating = False
-      For i = 1 To ThisWorkbook.Sheets.Count
-           ThisWorkbook.Sheets(i).Copy
-          ActiveWorkbook.SaveAs ThisWorkbook.Path & "/" & ThisWorkbook.Sheets(i).Name, xlWorkbookDefault
-           ActiveWorkbook.Close True
-      Next
-      Application.ScreenUpdating = True
-    Application.DisplayAlerts = True
-    MsgBox "处理完成。", , "提醒"
-End Sub
+###了解电源环路稳定性和环路补偿  
 
-#代码解释与说明
-Sub WorkbookToSheet()
-    '关闭系统警告和消息提示,相同工作簿存在时会直接覆盖保存。
-     Application.DisplayAlerts = False
-    '关闭屏幕刷新，防止出现闪动
-     Application.ScreenUpdating = False
-     '遍历当前工作簿中的 第一个sheet 到 最后一个sheet 【ThisWorkbook.Sheets.Count=当前工作簿中的工作表的个数】
-     For i = 1 To ThisWorkbook.Sheets.Count
-        '复制当前工作簿中的第i个工作表
-         ThisWorkbook.Sheets(i).Copy
-        '工作表复制后，会成为活动工作薄,把活动的工作簿另存到当前工作簿的相同路径下，新的工作簿名字用被复制的工作表的名字，并采用默认Excel文件格式
-         ActiveWorkbook.SaveAs ThisWorkbook.Path & "/" & ThisWorkbook.Sheets(i).Name, xlWorkbookDefault
-        '关闭工作薄并保存
-         ActiveWorkbook.Close True
-    Next
-    '前面强制关闭了屏幕刷新，程序结束前要恢复，否则会影响到平时的正常使用。
-    Application.ScreenUpdating = True
-    '前面强制关闭了警告和消息提示，程序结束前要恢复，否则会影响到平时的正常使用。
-    Application.DisplayAlerts = True
-    '提示已经处理完成。
-    MsgBox "处理完成。", , "提醒"
-End Sub
-
-###了解电源环路稳定性和环路补偿
 https://www.analog.com/cn/resources/technical-articles/power-supply-loop-stability-loop-compensation.html
 https://www.analog.com/cn/resources/technical-articles/understanding-power-supply-loop-stability-and-compensation-part-2.html
 https://www.analog.com/cn/resources/technical-articles/power-supply-loop-stability-compensation-part-3.html
