@@ -68,3 +68,8 @@ Sub WorkbookToSheet()
     '提示已经处理完成。
     MsgBox "处理完成。", , "提醒"
 End Sub
+
+###了解电源环路稳定性和环路补偿
+https://www.analog.com/cn/resources/technical-articles/power-supply-loop-stability-loop-compensation.html
+https://www.analog.com/cn/resources/technical-articles/understanding-power-supply-loop-stability-and-compensation-part-2.html
+https://www.analog.com/cn/resources/technical-articles/power-supply-loop-stability-compensation-part-3.html
