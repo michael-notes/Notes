@@ -33,6 +33,11 @@ https://toshiba.semicon-storage.com/info/application_note_en_20250213_AKX00141.p
 
 ###  ANP143 | TVS 二极管的基础知识、功能及其应用
 https://www.we-online.com/files/pdf1/anp143_tvs-_zh-v1.pdf
+https://fscdn.rohm.com/cn/products/databook/applinote/discrete/diodes/selection_method_and_usage_of_tvs_diodes_an-c.pdf
+
+###  AN80994 电快速瞬变脉冲群（EFT）抗扰度设计注意事项
+https://www.infineon.cn/assets/row/public/documents/cross-divisions/42/infineon-an80994-design-considerations-for-electrical-fast-transient-eft-immunity-applicationnotes-cn.pdf?fileId=8ac78c8c7cdc391c017d072b4dc75009
+https://www.infineon.cn/assets/row/public/documents/30/42/infineon-an96475-design-considerations-for-electrical-fast-transient-immunity-of-a-capsense-system-applicationnotes-cn.pdf?fileId=8ac78c8c7cdc391c017d0d02e73059ba
 
 ### 了解电源环路稳定性和环路补偿
 https://www.analog.com/cn/resources/technical-articles/power-supply-loop-stability-loop-compensation.html
