@@ -31,8 +31,10 @@ https://www.ti.com/lit/an/sbva060/sbva060.pdf?ts=1743076791846&ref_url=https%253
 https://www.ti.com/lit/wp/slvafx0/slvafx0.pdf?ts=1743077735565
 https://toshiba.semicon-storage.com/info/application_note_en_20250213_AKX00141.pdf?did=13766
 
-###了解电源环路稳定性和环路补偿  
+###  ANP143 | TVS 二极管的基础知识、功能及其应用
+https://www.we-online.com/files/pdf1/anp143_tvs-_zh-v1.pdf
 
+### 了解电源环路稳定性和环路补偿
 https://www.analog.com/cn/resources/technical-articles/power-supply-loop-stability-loop-compensation.html
 https://www.analog.com/cn/resources/technical-articles/understanding-power-supply-loop-stability-and-compensation-part-2.html
 https://www.analog.com/cn/resources/technical-articles/power-supply-loop-stability-compensation-part-3.html
