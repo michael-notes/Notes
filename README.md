@@ -52,3 +52,7 @@ https://www.ti.com/lit/an/sluaaf4a/sluaaf4a.pdf?ts=1756883328844&ref_url=https%2
 https://www.tij.co.jp/jp/lit/an/slvaf11/slvaf11.pdf?ts=1756883440798&ref_url=https%253A%252F%252Fwww.google.com%252F
 
 https://www.omicron-lab.com/fileadmin/assets/Bode_100/Documents/Technical_Data_Bode100R2.pdf
+
+###  Picotest Injector Teardowns
+
+https://www.eevblog.com/forum/testgear/picotest-injector-teardowns/
