@@ -43,3 +43,10 @@ https://www.infineon.cn/assets/row/public/documents/30/42/infineon-an96475-desig
 https://www.analog.com/cn/resources/technical-articles/power-supply-loop-stability-loop-compensation.html
 https://www.analog.com/cn/resources/technical-articles/understanding-power-supply-loop-stability-and-compensation-part-2.html
 https://www.analog.com/cn/resources/technical-articles/power-supply-loop-stability-compensation-part-3.html
+
+### Step-by-Step Process to Calculate a DC-to-DC Compensation Network
+https://www.analog.com/media/en/analog-dialogue/volume-57/number-2/step-by-step-process-to-calculate-a-dc-to-dc-compensation-network.pdf
+
+https://www.ti.com/lit/an/sluaaf4a/sluaaf4a.pdf?ts=1756883328844&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+https://www.omicron-lab.com/fileadmin/assets/Bode_100/Documents/Technical_Data_Bode100R2.pdf
