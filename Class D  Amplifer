@@ -1,0 +1,20 @@
+Class D 功放
+
+###  Class D 功放高次谐波过流保护分析和解决方法
+https://www.ti.com/cn/lit/an/zhca497/zhca497.pdf?ts=1757425661181&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+###  Class-D Output Snubber Design Guide
+https://www.ti.com.cn/cn/lit/an/sloa201/sloa201.pdf?ts=1757425789527&ref_url=https%253A%252F%252Fwww.ti.com.cn%252Fsitesearch%252Fzh-cn%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Dzh-CN%2526nr%253D1045%2526searchTerm%253Dclass+d
+
+### Application Note 1497 Filterless Class D Amplifiers
+https://www.ti.com.cn/cn/lit/an/zhca238/zhca238.pdf?ts=1757425768974&ref_url=https%253A%252F%252Fwww.ti.com.cn%252Fsitesearch%252Fzh-cn%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Dzh-CN%2526nr%253D24715%2526searchTerm%253Dclass+d
+
+### Inductor Selection Guide for 2.1 MHz Class-D Amplifiers
+https://www.ti.com.cn/cn/lit/an/sloa242a/sloa242a.pdf?ts=1757425765383&ref_url=https%253A%252F%252Fwww.ti.com.cn%252Fsitesearch%252Fzh-cn%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Dzh-CN%2526nr%253D24715%2526searchTerm%253Dclass+d
+
+### Class-D LC Filter Design
+https://www.ti.com.cn/cn/lit/an/sloa119b/sloa119b.pdf?ts=1757405417252&ref_url=https%253A%252F%252Fwww.ti.com.cn%252Fsitesearch%252Fzh-cn%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Dzh-CN%2526nr%253D1350%2526searchTerm%253Dclass+d+lc+filter
+
+
+### Thermal design considerations for TAS5805M Class-D audio amplifier
+https://www.ti.com.cn/cn/lit/an/slaa880/slaa880.pdf?ts=1757426177828&ref_url=https%253A%252F%252Fwww.ti.com.cn%252Fsitesearch%252Fzh-cn%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Dzh-CN%2526nr%253D1045%2526searchTerm%253Dclass+d
