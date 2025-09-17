@@ -56,3 +56,6 @@ https://www.omicron-lab.com/fileadmin/assets/Bode_100/Documents/Technical_Data_B
 ###  Picotest Injector Teardowns
 
 https://www.eevblog.com/forum/testgear/picotest-injector-teardowns/
+
+### 探头带宽计算
+https://download.tek.com/document/60C_18324_0.pdf
