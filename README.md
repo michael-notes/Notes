@@ -62,3 +62,9 @@ https://download.tek.com/document/60C_18324_0.pdf
 
 ###  AN-13-0004CAN收发器节点计算与外围电路参考设计
 https://www.novosns.com/Public/Uploads/uploadfile/files/20241224/AN-13-0004_CAN%E6%94%B6%E5%8F%91%E5%99%A8%E8%8A%82%E7%82%B9%E8%AE%A1%E7%AE%97%E4%B8%8E%E5%A4%96%E5%9B%B4%E7%94%B5%E8%B7%AF%E5%8F%82%E8%80%83%E8%AE%BE%E8%AE%A1.pdf
+
+### 在选择功率 MOSFET 和使用功率 MOSFET 进行设计时避免常见错误
+https://www.ti.com.cn/cn/lit/an/zhcaeo9/zhcaeo9.pdf?ts=1763366801572&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+### 电源工程师指南：大功率电源中MOSFET功耗的计算
+https://www.analog.com/cn/resources/technical-articles/mosfet-power-dissipation-calculation-in-highpower-supply.html
