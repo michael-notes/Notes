@@ -68,3 +68,6 @@ https://www.ti.com.cn/cn/lit/an/zhcaeo9/zhcaeo9.pdf?ts=1763366801572&ref_url=htt
 
 ### 电源工程师指南：大功率电源中MOSFET功耗的计算
 https://www.analog.com/cn/resources/technical-articles/mosfet-power-dissipation-calculation-in-highpower-supply.html
+
+###  Can Bus Systems from ESD 
+https://www.ti.com/lit/an/slvafc1/slvafc1.pdf?ts=1652591872294
