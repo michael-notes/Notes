@@ -12,6 +12,8 @@ https://paulorenato.com/index.php/electronics-diy/197-rc-snubber-calculator-spre
 ### 正确使用铝电解电容器的方法 CAT. No. C1001U
 https://www.chemi-con.co.jp/cn/catalog/pdf/al-c/al-sepa-c/001-guide/al-technote-c-2020.pdf
 ![image](https://github.com/user-attachments/assets/ccb843df-946b-407f-a986-8424f3295e78)
+### 铝电解寿命计算网站
+https://www.chemi-con.co.jp/cn/tool/lifetime/detail.html
 ### 铝电解电容器技术说明 CAT.8501
 https://cn-nichicon.com/wp-content/uploads/technical-c.pdf
 ### Input Filter Design for Switching Power Supplies
